@@ -1,7 +1,7 @@
 ---
 title: "git_00"
-author: "Your Name here"
-date: "Year 2020"
+author: "Taylor Dickie-Mahtesian"
+date: "9/9/2021"
 output: html_document
 ---
 
@@ -16,11 +16,36 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
+’Twas brillig, and the slithy toves  
+      Did gyre and gimble in the wabe:  
+All mimsy were the borogoves,  
+      And the mome raths outgrabe.  
+
+“Beware the Jabberwock, my son!  
+
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+
+Something there is that doesn't love a wall,  
+That sends the frozen-ground-swell under it,  
+And spills the upper boulders in the sun;  
+And makes gaps even two can pass abreast.  
+The work of hunters is another thing:  
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
+The sun was shining on the sea,    
+      Shining with all his might:    
+
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+
+The royal word goes forth, and armies do  
+    The work of devils. Agony and waste  
+    Are on the world, and the grim legions haste  
+On the old war-roads that the Caesars knew.  
+Still gleams the dreadful stain of Waterloo,  
+    On Time's accusing record unerased;  
+    Gone are the ramparts that the Romans faced,  
+But these the heavens where their eagles flew.  
